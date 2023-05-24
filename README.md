@@ -12,7 +12,7 @@ Eu sou o Lucas, sou um programador Front-end, atualmente estou aprendendo e cria
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs-logo" />
     <br>
     
-e começando o aprendizado em Back-end.
+e começando o aprendizado em React.
 <br>
 <br>
 Meu Linkedin:
