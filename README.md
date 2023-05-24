@@ -21,8 +21,8 @@ Meu Linkedin:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"><a>
 
     
-[![Lucas Stats](https://github-readme-stats.vercel.app/api?username=lucasseccatto)](https://github.com/anuraghazra/github-readme-stats)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasseccatto&show_icons=true&theme=transparent)
  
  <hr>
  
-[![Top Langs Lucas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasseccatto)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasseccatto&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
