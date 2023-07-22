@@ -14,12 +14,6 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
-<h2> Começando o aprendizado em: </h2>
-<br>
-<div align="center">
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</div>
-
 <h2>Contato:</h2>
 <br>
 <div align="center">
