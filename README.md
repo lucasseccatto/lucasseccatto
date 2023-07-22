@@ -1,7 +1,7 @@
 <h1 align="center">Sejam bem vindos!</h1>
 
 <h2>Sobre mim</h2>
-<p>Olá, meu nome é Lucas e sou desenvolvedor Front-end. Atualmente tenho ampliado minhas experiências em desenvolvimento de sistemas web, manutenções e aplicações.</p>
+<p>Olá, sou desenvolvedor Front-end. Atualmente tenho ampliado minhas experiências em desenvolvimento de sistemas web, manutenções e aplicações.</p>
 <br>
 
 <h2>Tenho experiências com:</h2>
