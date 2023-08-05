@@ -2,6 +2,7 @@
 
 <h2>Sobre mim</h2>
 <p>Olá, sou desenvolvedor Front-end. Atualmente tenho ampliado minhas experiências em desenvolvimento de sistemas web, manutenções e aplicações.</p>
+<p>Meu objetivo é contribuir para projetos que tenham um impacto positivo na vida das pessoas, fornecendo soluções digitais elegantes e funcionais. Estou constantemente expandindo meus conhecimentos e habilidades.</p>
 <br>
 
 <h2>Tenho experiências com:</h2>
