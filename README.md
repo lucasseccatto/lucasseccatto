@@ -1,28 +1,43 @@
-<h1 align="center">Sejam bem vindos!</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-<h2>Sobre mim</h2>
-<p>Sou um Desenvolvedor Front-end apaixonado por tecnologia, com experiência em HTML, CSS, JavaScript, React, Node e outras tecnologias relevantes.</p>
-<p>Meu objetivo é contribuir para projetos que tenham um impacto positivo na vida das pessoas, fornecendo soluções digitais elegantes e funcionais. Estou constantemente expandindo meus conhecimentos e habilidades.</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Lucas+Seccatto;Desenvolvedor+Front-End;Seja+bem+vindo!+)](https://git.io/typing-svg)
+
+<div align="center"> 
+<a href="https://www.linkedin.com/in/lucasseccatto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ <br>
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" />
+</p>
 <br>
 
-<h2>Tenho experiências com:</h2>
-<br>
-<div align="center" style=" display:inline_block">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasseccatto&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=41E1CF&text_color=c9d1d9&bg_color=0d1117" alt="Fernando Dias github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasseccatto&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
-<h2>Contato:</h2>
 <br>
+
+### Minhas skills:
+
 <div align="center">
-<a href="https://www.linkedin.com/in/lucasseccatto/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"><a>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,git,github,express" />
 </div>
- 
-<hr>
+<br/>
+
+### Estudando neste momento:
+
 <div align="center">
-    <img height="170cm" src= "https://github-readme-stats.vercel.app/api?username=lucasseccatto&show_icons=true&theme=radical"/>
-    <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasseccatto&layout=compact&langs_count=16&theme=radical"/>
+    <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,typescript,express,mysql,sequelize,docker" />
 </div>
+<br>
+
+<div align="center">
+  <h2>Minhas contribuições</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
